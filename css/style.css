@@ -18,6 +18,8 @@ html {
 
 h1 {
   font-weight: bold;
+  text-transform: uppercase;
+  font-family: Montserrat,sans-serif;
   color: #fff;
   font-size: 32px;
 }
